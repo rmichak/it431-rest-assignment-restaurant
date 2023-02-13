@@ -1,5 +1,5 @@
 # IT 431 REST Assignment Restaurant
-In this assignment you will use expres.js to expose several REST calls to manage restaurant data.  
+In this assignment you will use express.js to expose several REST calls to manage restaurant data.  
 
 # getting started
 - clone this repo
